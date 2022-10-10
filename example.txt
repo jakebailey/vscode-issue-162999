@@ -1,3 +1,3 @@
 This is an example file for https://github.com/microsoft/vscode/issues/162999.
 
-This is some line of text.
+This is some line of text. It's now modified on branch-2.
